@@ -31,7 +31,7 @@
     margin: 10px;
     float: right;
 }
-.sub-content:nth-of-type(13n+1){
+.sub-content:nth-of-type(3n+1){
     margin: 10px 20px 10px 10px;
 }
 #advertisement {
